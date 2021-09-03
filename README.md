@@ -1,1 +1,1 @@
-# Numpy Solutions
+### Numpy Practice 
